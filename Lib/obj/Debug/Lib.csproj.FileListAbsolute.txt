@@ -1,0 +1,6 @@
+C:\Vyara\Uni\1 курс\WindowsFormsAppKursovProekt\Lib\bin\Debug\Lib.dll
+C:\Vyara\Uni\1 курс\WindowsFormsAppKursovProekt\Lib\bin\Debug\Lib.pdb
+C:\Vyara\Uni\1 курс\WindowsFormsAppKursovProekt\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+C:\Vyara\Uni\1 курс\WindowsFormsAppKursovProekt\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Vyara\Uni\1 курс\WindowsFormsAppKursovProekt\Lib\obj\Debug\Lib.dll
+C:\Vyara\Uni\1 курс\WindowsFormsAppKursovProekt\Lib\obj\Debug\Lib.pdb
